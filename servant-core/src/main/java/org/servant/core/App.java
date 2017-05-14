@@ -1,4 +1,4 @@
-package servant.servant_core;
+package org.servant.core;
 
 /**
  * Hello world!
